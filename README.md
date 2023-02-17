@@ -24,3 +24,7 @@ When the parent folder of a nuxt project contains the string "nuxt", some import
 5. Start the development server: `yarn dev`
 6. Open the browser at http://localhost:3000
 7. No errors this time.
+
+## Me trying to understand what's going on
+
+![Confused rabbit](img.png)
